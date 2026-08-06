@@ -88,12 +88,13 @@ Login using the administrator credentials.
 
 # Screenshot
 
-Add your installation screenshot here.
+
 
 Example:
 
 ```
-Screenshots/installation.jpeg
+![installation](..Screenshots/installation.jpeg)
+
 ```
 
 ---
