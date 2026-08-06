@@ -1,5 +1,7 @@
 # Splunk SOC Home Lab Architecture
 
+![Lab Architecture](lab-architecture.png)
+
 ## Overview
 
 This Splunk SOC Home Lab simulates a basic Security Operations Center (SOC) environment for security monitoring, threat detection, and incident investigation.
