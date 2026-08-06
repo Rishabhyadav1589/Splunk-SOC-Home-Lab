@@ -93,7 +93,7 @@ Login using the administrator credentials.
 Example:
 
 ```
-![installation](..Screenshots/installation.jpeg)
+![installation](../Screenshots/installation.jpeg)
 
 ```
 
