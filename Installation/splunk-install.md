@@ -89,13 +89,9 @@ Login using the administrator credentials.
 # Screenshot
 
 
-
-Example:
-
-```
 ![installation](../Screenshots/installation.jpeg)
 
-```
+
 
 ---
 
