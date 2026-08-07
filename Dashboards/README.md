@@ -149,9 +149,10 @@ Threat Hunting & Investigation
 Dashboard screenshots are available in the **dashboard-screenshots** folder.
 
 Example:
+![Dashboard](Screenshots/dashboard-1.png)
 
 ```
-![dashboard] (../Screenshots/dashboard-1.png)
+
 ├── security-overview.png
 ├── authentication-dashboard.png
 ├── powershell-dashboard.png
