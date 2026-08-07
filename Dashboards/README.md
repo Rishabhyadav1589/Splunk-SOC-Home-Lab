@@ -150,6 +150,10 @@ Dashboard screenshots are available in the **dashboard-screenshots** folder.
 
 Example:
 ![Dashboard](/Screenshots/dashboard-1.png)
+![Dashboard](/Screenshots/dashboard-2.png)
+![Dashboard](/Screenshots/dashboard-3.png)
+![Dashboard](/Screenshots/dashboard-4.png)
+![Dashboard](/Screenshots/dashboard-5.png)
 
 ```
 
