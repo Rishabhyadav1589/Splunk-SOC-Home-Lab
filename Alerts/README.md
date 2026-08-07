@@ -95,6 +95,10 @@ Each alert includes:
 ---
 # Screenshots
 
+![alert](/Screenshots/alert-1.png)
+![alert](/Screenshots/alert-2.png)
+![alert](/Screenshots/alert-3.png)
+
 
 # Conclusion
 
