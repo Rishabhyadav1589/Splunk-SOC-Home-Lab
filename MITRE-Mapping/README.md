@@ -8,6 +8,7 @@ MITRE ATT&CK mapping helps analysts understand which adversary behaviors can be 
 
 ---
 ## Screenshot
+![installation](../Screenshots/Mitre-attack.jpeg)
 
 ## Objectives
 
