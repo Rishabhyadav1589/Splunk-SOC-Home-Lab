@@ -1,5 +1,3 @@
----
-
 # 2. `incident-01-failed-login.md`
 
 ```markdown
