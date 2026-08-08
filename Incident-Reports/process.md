@@ -1,5 +1,3 @@
----
-
 # 5. `incident-04-process.md`
 
 ```markdown
