@@ -23,11 +23,13 @@ index=main sourcetype="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" Even
 | table _time Image DestinationIp DestinationPort User
 | sort - _time
 
-
+---
 
 ## Screenshot
+
+
 ![Network Connection Monitoring](../Screenshots/network-1.png)
 
 ![Network Connection Monitoring](../Screenshots/network-2.png)
-
+---
 
