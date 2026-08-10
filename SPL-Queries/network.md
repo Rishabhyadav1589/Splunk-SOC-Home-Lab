@@ -29,7 +29,6 @@ index=main sourcetype="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" Even
 | table _time Image DestinationIp DestinationPort User
 | sort - _time
 
----
 
 
 
