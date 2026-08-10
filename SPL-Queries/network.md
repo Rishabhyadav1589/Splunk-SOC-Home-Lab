@@ -5,6 +5,12 @@
 Monitor outbound network connections from Windows endpoints using Sysmon Event ID 3 in Splunk.
 
 ---
+## Screenshot
+
+
+![Network Connection Monitoring](../Screenshots/network-1.png)
+
+![Network Connection Monitoring](../Screenshots/network-2.png)
 
 ## Data Source
 
@@ -25,11 +31,5 @@ index=main sourcetype="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" Even
 
 ---
 
-## Screenshot
 
-
-![Network Connection Monitoring](../Screenshots/network-1.png)
-
-![Network Connection Monitoring](../Screenshots/network-2.png)
----
 
