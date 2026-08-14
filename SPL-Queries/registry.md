@@ -29,7 +29,9 @@ T1112
 
 Screenshot
 
-Add screenshot here.
+![Network Connection Monitoring](../Screenshots/registry-1.png)
+
+![Network Connection Monitoring](../Screenshots/registry-2.png)
 
 
 ---
