@@ -26,7 +26,11 @@ MITRE ATT&CK
 
 ## Screenshot
 
-Add DNS search screenshot.
+![Network Connection Monitoring](../Screenshots/dns-1.png)
+
+![Network Connection Monitoring](../Screenshots/dns-2.png)
+
+🔒 IP addresses have been blurred for security and privacy reasons.
 
 ---
 
