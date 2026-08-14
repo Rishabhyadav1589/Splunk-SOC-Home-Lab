@@ -27,8 +27,10 @@ MITRE ATT&CK
 ---
 
 ## Screenshot
+![Network Connection Monitoring](../Screenshots/process-1.png)
 
-Add screenshot here.
+![Network Connection Monitoring](../Screenshots/process-2.png)
+
 
 ---
 
